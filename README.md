@@ -1,1 +1,3 @@
-# desenvolve-introducao-web
+# Projeto desenvolve - Itabira
+# Programação básica web
+# 
